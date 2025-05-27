@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛸 Drone Safety Landing System
 
 An intelligent drone landing system that analyzes real-time aerial footage to detect landing threats such as trees, water, or uneven terrain. It uses YOLOv8 object detection and triggers smart decisions like **Auto RTL**, **Loiter**, or **Force Land**, ensuring maximum landing safety.
@@ -139,5 +138,3 @@ DroneSafeLanding/
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-=======
->>>>>>> 56b347ac5103c93db63c9e34f92339979237ca15
