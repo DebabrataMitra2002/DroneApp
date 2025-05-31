@@ -1,0 +1,9 @@
+# Python dependencies
+ultralytics==8.0.203
+opencv-python
+Pillow
+tk
+tkintermapview
+dronekit
+pyserial
+
